@@ -6,3 +6,9 @@ In many industrial and medical applications of EIT, the conductivity distributio
 Previous studies have shown that such features in the conductivity can be preserved by using total variation (TV) prior model in the EIT image reconstruction.
 In this paper, an experimental study of EIT with a TV prior in a 3D geometry is presented. In addition, we propose the selection of the prior parameters in the TV model based on the prior information of materials in the target, and their conductivity ranges. 
 The results demonstrate the robustness of the proposed parameter selection strategy, and verify that the use of the TV prior yields sharp reconstructions in 3D EIT.
+
+## Prerequisites
+- Matlab 
+- Netgen: https://ngsolve.org/
+
+
