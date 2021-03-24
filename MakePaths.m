@@ -1,0 +1,8 @@
+path(path,'EIT_codes/')
+path(path,'EIT_codes/forward/')
+path(path,'EIT_codes/inverse')
+path(path,'EIT_codes/mesh')
+path(path,'mesh')
+path(path,'Cylindrical_EIT_mesh')
+path(path,'REALDATA')
+path(path,'general_codes')

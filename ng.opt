@@ -1,0 +1,6 @@
+meshoptions.fineness 4
+options.secondorder 1
+options.meshsize 0.8
+options.grading 0.2
+options.curvaturesafety 2
+options.segmentsperedge 2
